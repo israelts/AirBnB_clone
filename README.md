@@ -3,7 +3,7 @@
 ![alx-screenshot](https://github.com/israelts/AirBnB_clone/blob/master/img/alx_screenshot.png)
 ## Description
 
-This team project is part of the Holberton School Full-Stack Software Engineer program.
+This team project is part of the Alx School Full-Stack Software Engineer program.
 It's the first step towards building a first full web application: an AirBnB clone.
 This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data.
 
@@ -66,5 +66,5 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 ## Authors
 
 - [Israel Tsopgue](https://github.com/israelts/AirBnB_clone.git)
-*Sharpening my skills at Holberton School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
+*Sharpening my skills at Alx School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
 - **Billie K Mushongwi** - [ biliemush@gmail.com]
