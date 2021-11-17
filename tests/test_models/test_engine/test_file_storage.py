@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-"""Unittest module for the FileStorage class."""
-
+"""Defines unittests for models/engine/file_storage.py.
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+"""
 import unittest
 from datetime import datetime
 import time
