@@ -67,4 +67,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 - [Israel Tsopgue](https://github.com/israelts/AirBnB_clone.git)
 *Sharpening my skills at Alx School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
-- **Billie K Mushongwi** - [ biliemush@gmail.com]
+- **Billie K Mushongwi** - [ billiemush@gmail.com]
