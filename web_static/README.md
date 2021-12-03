@@ -1,24 +1,30 @@
-# 0x01. AirBnB clone - Web static
+This is the repository to create the front-end part of the AirBnB clone web application
 
-## Description
+Requirements
 
-This project is part of the Holberton School curriculum AirBnB clone.
-Its goal is to create a static webpage and to understand the basics of HTML and CSS.
 
-## Table of contents
+General
 
-**1. Index files**
+1. Allowed editors: vi, vim, emacs
 
-All the index.html files in this folder are a level of the web page, from 0 to 10.
+2. All your files should end with a new line
 
-**2. Styles folder**
+3. A README.md file, at the root of the folder of the project, is mandatory
 
-All the .css stylesheets are situated in the [styles](./styles/) directory.
+4. Your code should be W3C compliant and validate with W3C-Validator
 
-**3. Images**
+5. All your CSS files should be in styles folder
 
-All the icons and logos used for this project are in the [images](./images/) directory.
+6. All your images should be in images folder
 
-## Author (solo project)
+7. You are not allowed to use !important and id (#... in the CSS file)
 
-Laura Roudge
+8. You are not allowed to use tags img, embed and iframe
+
+9. You are not allowed to use Javascript
+
+10.Current screenshots have been done on Chrome 56 or more.
+
+11.No cross browsers
+
+12.You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots

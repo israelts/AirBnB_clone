@@ -1,5 +1,5 @@
-header div {
-    background-color: #FF0000;
+header{
     height: 70px;
     width: 100%;
+    background-color: red;
 }
